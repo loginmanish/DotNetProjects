@@ -1,0 +1,7 @@
+E:\NetProj\2016\ImportXmlData\ImportXmlData\obj\Debug\ResolveAssemblyReference.cache
+E:\NetProj\2016\ImportXmlData\ImportXmlData\bin\Debug\ImportXmlData.exe.config
+E:\NetProj\2016\ImportXmlData\ImportXmlData\bin\Debug\ImportXmlData.exe
+E:\NetProj\2016\ImportXmlData\ImportXmlData\bin\Debug\ImportXmlData.pdb
+E:\NetProj\2016\ImportXmlData\ImportXmlData\bin\Debug\mysql.data.dll
+E:\NetProj\2016\ImportXmlData\ImportXmlData\obj\Debug\ImportXmlData.exe
+E:\NetProj\2016\ImportXmlData\ImportXmlData\obj\Debug\ImportXmlData.pdb

@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--FEIRS to MOAD XML File-->
+<Certificates>
+  <Certificate>
+    <CertificateNumber>T-012-1234-01698</CertificateNumber>
+    <SupersededCertificateNumber></SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>FRANK WELSOWESKI</InspectorName>
+    <ApplicantName>FRESH PRODUCE INC</ApplicantName>
+    <ApplicantContact>ATTN:  ACCTS PAYABLE RAPP</ApplicantContact>
+    <ApplicantAddress>1234 VINEYARD st</ApplicantAddress>
+    <ApplicantAddress2>SUITE 560</ApplicantAddress2>
+    <ApplicantCity>oxford</ApplicantCity>
+    <ApplicantState>CA</ApplicantState>
+    <ApplicantZip>73056-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7890</ApplicantFax>
+    <ApplicantEmail>GRAPHS@EMAIL.COM</ApplicantEmail>
+    <InspectionDate>8/4/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>97E-0096168-1</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>48000</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>1920</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+  <Certificate>
+    <CertificateNumber>T-012-1234-00548</CertificateNumber>
+    <SupersededCertificateNumber></SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>CHERYL SUZAN</InspectorName>
+    <ApplicantName>WHOLE FRESH, INC.</ApplicantName>
+    <ApplicantContact>SANDRA STORE</ApplicantContact>
+    <ApplicantAddress>3457 DEMON STREET SUITE 677</ApplicantAddress>
+    <ApplicantAddress2>ATTN: ACCTS PAYABLE</ApplicantAddress2>
+    <ApplicantCity>RIVERSIDE</ApplicantCity>
+    <ApplicantState>CA</ApplicantState>
+    <ApplicantZip>34567-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7891</ApplicantFax>
+    <ApplicantEmail>SSTORE@EMAIL.COM</ApplicantEmail>
+    <InspectionDate>8/4/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>97E-0096399-2</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>35520</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>960</NumberOfPackages>
+    </CertRow>
+    <CertRow>
+      <CustomsEntryNumber>97E-096399-2</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>7200</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>B</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>240</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+  <Certificate>
+    <CertificateNumber>T-012-0379-00549</CertificateNumber>
+    <SupersededCertificateNumber>T-012-0379-00539</SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>CHERYL SUZAN</InspectorName>
+    <ApplicantName>WHOLE FRESH, INC.</ApplicantName>
+    <ApplicantContact>BELINDA STONE</ApplicantContact>
+    <ApplicantAddress>3880 DEMON STREET SUITE 210</ApplicantAddress>
+    <ApplicantAddress2>ATTN: ACCTS PAYABLE</ApplicantAddress2>
+    <ApplicantCity>RIVERSIDE</ApplicantCity>
+    <ApplicantState>CA</ApplicantState>
+    <ApplicantZip>95465-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7890</ApplicantFax>
+    <ApplicantEmail>SSTONE@STORE.COM</ApplicantEmail>
+    <InspectionDate>8/5/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>97E-0095900-8</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>44400</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>1200</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+  <Certificate>
+    <CertificateNumber>T-012-0379-00548</CertificateNumber>
+    <SupersededCertificateNumber></SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>CHERYL SUZAN</InspectorName>
+    <ApplicantName>WHOLE FRESH, INC.</ApplicantName>
+    <ApplicantContact>BELINDA SUZAN</ApplicantContact>
+    <ApplicantAddress>3880 DEMON STREET SUITE 210</ApplicantAddress>
+    <ApplicantAddress2>ATTN: ACCTS PAYABLE</ApplicantAddress2>
+    <ApplicantCity>RIVERSIDE</ApplicantCity>
+    <ApplicantState>CA</ApplicantState>
+    <ApplicantZip>54645-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7890</ApplicantFax>
+    <ApplicantEmail>SSTORE@EMAIL.COM</ApplicantEmail>
+    <InspectionDate>8/4/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>97E-0096399-2</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>35520</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>960</NumberOfPackages>
+    </CertRow>
+    <CertRow>
+      <CustomsEntryNumber>97E-096399-2</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>7200</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>B</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>240</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+  <Certificate>
+    <CertificateNumber>T-012-0327-01697</CertificateNumber>
+    <SupersededCertificateNumber></SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>FRANK WELSOWESKI</InspectorName>
+    <ApplicantName>WHOLE PRODUCE INC</ApplicantName>
+    <ApplicantContact>ATTN:  ACCTS PAYABLE GRIZELDA RAPP</ApplicantContact>
+    <ApplicantAddress>2500 VENIGER AVE</ApplicantAddress>
+    <ApplicantAddress2>SUITE 450</ApplicantAddress2>
+    <ApplicantCity>OXFORD</ApplicantCity>
+    <ApplicantState>CA</ApplicantState>
+    <ApplicantZip>34535-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7890</ApplicantFax>
+    <ApplicantEmail>GRAPHS@EMAIL.COM</ApplicantEmail>
+    <InspectionDate>8/4/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>97E-0096284-6</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>36000</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>1440</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+  <Certificate>
+    <CertificateNumber>T-056-0312-06888</CertificateNumber>
+    <SupersededCertificateNumber></SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>JOSE HERNANDEZ</InspectorName>
+    <ApplicantName>GLOBAL LOGIST LLC</ApplicantName>
+    <ApplicantContact>ATTN:  ACCTS PAYABLE </ApplicantContact>
+    <ApplicantAddress>4500 NW 56TH AVE, BLDG #111</ApplicantAddress>
+    <ApplicantAddress2>SUITE 550</ApplicantAddress2>
+    <ApplicantCity>MIAMI</ApplicantCity>
+    <ApplicantState>FL</ApplicantState>
+    <ApplicantZip>45778-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7890</ApplicantFax>
+    <ApplicantEmail>MICHELY@EMAIL.COM</ApplicantEmail>
+    <InspectionDate>8/4/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>MC2-6619239-2</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>30000</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>1200</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+  <Certificate>
+    <CertificateNumber>T-056-0312-06887</CertificateNumber>
+    <SupersededCertificateNumber></SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>JOSE HERNANDEZ</InspectorName>
+    <ApplicantName>GLOBAL LOGIST LLC</ApplicantName>
+    <ApplicantContact>ATTN:  ACCTS PAYABLE </ApplicantContact>
+    <ApplicantAddress>4568 SW 97TH AVE, BLDG #156</ApplicantAddress>
+    <ApplicantAddress2>SUITE 650</ApplicantAddress2>
+    <ApplicantCity>MIAMI</ApplicantCity>
+    <ApplicantState>FL</ApplicantState>
+    <ApplicantZip>35456-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7890</ApplicantFax>
+    <ApplicantEmail>MICHLLY@EMAIL.COM</ApplicantEmail>
+    <InspectionDate>8/4/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>MC2-6619248-3</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>24000</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>960</NumberOfPackages>
+    </CertRow>
+    <CertRow>
+      <CustomsEntryNumber>MC2-6619248-3</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>9600</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>B</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>384</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+  <Certificate>
+    <CertificateNumber>T-056-0312-06889</CertificateNumber>
+    <SupersededCertificateNumber></SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>JOSE HERNANDEZ</InspectorName>
+    <ApplicantName>GLOBAL LOGS LLC</ApplicantName>
+    <ApplicantContact>ATTN:  ACCTS PAYABLE </ApplicantContact>
+    <ApplicantAddress>3453 SW 75TH AVE, BLDG #156</ApplicantAddress>
+    <ApplicantAddress2>SUITE 760</ApplicantAddress2>
+    <ApplicantCity>MIAMI</ApplicantCity>
+    <ApplicantState>FL</ApplicantState>
+    <ApplicantZip>45672-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7890</ApplicantFax>
+    <ApplicantEmail>MICHLLY@EMAIL.COM</ApplicantEmail>
+    <InspectionDate>8/4/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>MC2-6619245-9</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>30000</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>1200</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+  <Certificate>
+    <CertificateNumber>T-056-0312-06890</CertificateNumber>
+    <SupersededCertificateNumber></SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>JOSE HERNANDEZ</InspectorName>
+    <ApplicantName>GLOBAL LOGISTICS LLC</ApplicantName>
+    <ApplicantContact>ATTN:  ACCTS PAYABLE </ApplicantContact>
+    <ApplicantAddress>5677 SW 78TH AVE, BLDG #751</ApplicantAddress>
+    <ApplicantAddress2>SUITE 150</ApplicantAddress2>
+    <ApplicantCity>MIAMI</ApplicantCity>
+    <ApplicantState>FL</ApplicantState>
+    <ApplicantZip>33122-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7890</ApplicantFax>
+    <ApplicantEmail>MICHELLY@EMAIL.COM</ApplicantEmail>
+    <InspectionDate>8/4/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>MC2-6619242-6</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>30000</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>1200</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+  <Certificate>
+    <CertificateNumber>T-056-0312-06887</CertificateNumber>
+    <SupersededCertificateNumber></SupersededCertificateNumber>
+    <PreviousCertificateNumber></PreviousCertificateNumber>
+    <InspectorName>JOSE HERNANDEZ</InspectorName>
+    <ApplicantName>GLOBAL LOGISTICS LLC</ApplicantName>
+    <ApplicantContact>ATTN:  ACCTS PAYABLE </ApplicantContact>
+    <ApplicantAddress>4657 NW 85TH AVE, BLDG #156</ApplicantAddress>
+    <ApplicantAddress2>SUITE 119</ApplicantAddress2>
+    <ApplicantCity>MIAMI</ApplicantCity>
+    <ApplicantState>FL</ApplicantState>
+    <ApplicantZip>34567-0000</ApplicantZip>
+    <ApplicantPhone>123-456-7890</ApplicantPhone>
+    <ApplicantFax>123-456-7890</ApplicantFax>
+    <ApplicantEmail>MICHLLY@EMAIL.COM</ApplicantEmail>
+    <InspectionDate>8/4/2016 12:00:00 AM</InspectionDate>
+    <CertRow>
+      <CustomsEntryNumber>MC2-6619248-3</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>24000</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>A</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>960</NumberOfPackages>
+    </CertRow>
+    <CertRow>
+      <CustomsEntryNumber>MC2-6619248-3</CustomsEntryNumber>
+      <HTSCodeDescription>AVOCADOS, FLORIDA</HTSCodeDescription>
+      <TotalWeight>9600</TotalWeight>
+      <Results>M</Results>
+      <FDAStatus>N/A</FDAStatus>
+      <UnitOfMeasure>LB</UnitOfMeasure>
+      <InspectionLotIdNos>B</InspectionLotIdNos>
+      <CBPContainerLotID>N/A</CBPContainerLotID>
+      <NumberOfPackages>384</NumberOfPackages>
+    </CertRow>
+  </Certificate>
+</Certificates>
