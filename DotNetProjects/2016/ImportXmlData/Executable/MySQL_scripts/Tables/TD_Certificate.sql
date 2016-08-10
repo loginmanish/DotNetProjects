@@ -1,0 +1,20 @@
+﻿CREATE TABLE `td_certificate` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `CertificateNumber` varchar(45) NOT NULL,
+  `SupersededCertificateNumber` varchar(45) DEFAULT NULL,
+  `PreviousCertificateNumber` varchar(45) DEFAULT NULL,
+  `InspectorName` varchar(45) NOT NULL,
+  `ApplicantName` varchar(45) NOT NULL,
+  `ApplicantContact` varchar(100) NOT NULL,
+  `ApplicantAddress` varchar(100) NOT NULL,
+  `ApplicantAddress2` varchar(100) DEFAULT NULL,
+  `ApplicantCity` varchar(45) NOT NULL,
+  `ApplicantState` varchar(2) NOT NULL,
+  `ApplicantZip` varchar(12) NOT NULL,
+  `ApplicantPhone` varchar(45) NOT NULL,
+  `ApplicantFax` varchar(45) DEFAULT NULL,
+  `ApplicantEmail` varchar(100) NOT NULL,
+  `InspectionDate` datetime NOT NULL,
+  PRIMARY KEY (`ID`),
+  UNIQUE KEY `CertificateNumber_UNIQUE` (`CertificateNumber`)
+);
