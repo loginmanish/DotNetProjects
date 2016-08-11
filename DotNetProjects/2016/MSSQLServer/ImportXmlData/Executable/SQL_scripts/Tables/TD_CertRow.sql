@@ -1,0 +1,13 @@
+﻿CREATE TABLE TD_CertRow (
+  ID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+  CertificateID INT NOT NULL CONSTRAINT FK_TD_CertRow_Certificate FOREIGN KEY REFERENCES TD_Certificate (ID),
+  CustomsEntryNumber VARCHAR(45) NOT NULL,
+  HTSCodeDescription VARCHAR(100) NOT NULL,
+  TotalWeight INT NOT NULL,
+  Results VARCHAR(5) NOT NULL,
+  FDAStatus VARCHAR(5) NOT NULL,
+  UnitOfMeasure VARCHAR(5) NOT NULL,
+  InspectionLotIdNos VARCHAR(5) NOT NULL,
+  CBPContainerLotID VARCHAR(5) NOT NULL,
+  NumberOfPackages INT NOT NULL
+  )
