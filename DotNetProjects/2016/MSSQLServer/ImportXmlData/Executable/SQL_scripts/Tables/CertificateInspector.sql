@@ -1,0 +1,4 @@
+﻿CREATE TABLE CertificateInspector (
+  ID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+  InspectorName VARCHAR(45) NOT NULL
+)
